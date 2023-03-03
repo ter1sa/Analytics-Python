@@ -1,4 +1,4 @@
-#Business Case
+# Business Case
 Assuming you are working in a bank and a customer is requesting for credit card.
 You need to estimate the amount of credit you could grant to the customer or reject the application
 Hence you need to predict if the customer will default or not.
