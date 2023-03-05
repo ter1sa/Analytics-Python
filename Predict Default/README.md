@@ -1,4 +1,4 @@
-# Business Case
+# Dependent variable is continuous
 #### Assuming you are working in a bank and a customer is requesting for loan. You need to predict if the customer will default the loan. You are to create the predictive model using machine learning model
 - Used all the attributes except the index
 - Split train test using default rates
