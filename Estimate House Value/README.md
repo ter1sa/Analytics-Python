@@ -1,4 +1,4 @@
-# Business Case
+# Dependent variable is continuous
 #### Assuming you are working in a bank and a customer is requesting for house loan. You need to estimate the amount of loan you could grant to the customer. Hence you need to estimate the value of the house
 - Create model to predict the value of the house using machine learning model
 - Used dummy variables on categorical input
