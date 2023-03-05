@@ -1,5 +1,5 @@
 # Business Case
-#### Assuming you are working in a hospital as a data sceintist. You need to predict if a person has alzhemier or not (there are 4 categories). You are to create the predictive model using machine learning model (CNN) and Orange and compare the results between them with explanation.
+#### Assuming you are working in a hosiptal as a data scientist. You need to predict if a person has Alzheimer or not (there are 4 categories). You are to create the predictive model using machine learning model (CNN) and Orange and compare the results between them with explanation.
 #### Dataset used (from Kaggle): https://www.kaggle.com/datasets/tourist55/alzheimers-dataset-4-class-of-images
 - Used seaborn heatmap and matplotlib plot.
 - Plot loss and accuracy curve (with tail to ensure no underfitting) and not too long (to ensure no overfitting).
