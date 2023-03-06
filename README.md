@@ -1,41 +1,5 @@
-# Analytics-Python
-This repository contains the following projects where I used Data Analytics to:
-1. Estimate house value
-2. Predict share price
-3. Predict if customer will default
-4. Predict if person has Alzheimer
-5. Create a classifier for Spam Email (text) and calculate the accuracy
-6. Predict financial product price using technical analysis including trend analysis
-
-For these projects, I used:
-- Pre-processing of data
-- Data Visualization
-- Feature Selection
-- Classifier
-
-- Regression
-  - Linear Regression
-  - Logistic Regression
-- Decision Tree
-  - CART
-  - Random Forest
-  - XGBoost
-- Neural Network
-  - Perceptron
-  - MLP
-- Recurrent Neural Network
-  - RNN
-  - GRU
-  - LSTM
-  - CNN
-- Clustering and Association Rules
-  - Kmean
-  - Elbow
-  - Apriori
-- Chatbot using SnatchBot
-  - Basic Flow
-  - Variable
-  - If Statement
-- Deployment
-  - Flask
-  - Heroku
+# Deployment
+#### Data Analysis: When $S Strengthen, will DBS share price up or down?
+When Sing Dollar strengthen, DBS share price will be expensive for foreign investor, therefore, DBS price should go down, if everything else remain the same.
+However, when Sing Dollar strengthen, DBS asset in S$ will appreciate from foreign investor perspective, hence, if DBS has more Sing Dollar Asset than Liability, DBS share price should go up.
+Hence, data analytics is important.
