@@ -36,3 +36,6 @@ For these projects, I used:
   - Basic Flow
   - Variable
   - If Statement
+- Deployment
+  - Flask
+  - Heroku
